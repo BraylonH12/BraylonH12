@@ -1,4 +1,13 @@
-## Hi there 👋
+## **Braylon Heavens | Software Engineer | Sound Designer | Creative Media**
+
+I am a junior enrolled at The University of Alabama with a major in Computer Science and a minor in Creative Media. My combination of education provides me with a unique background to inspire innovation and solutions to real-world problems utilizing my skills in Software Engineering.
+
+My involvement with PlayStation Career Pathways at Sony Interactive Entertainment has provided me with valuable, hands on experience in the Software Engineering Industry.
+Check out my contributions as a Gameplay Programmer with Unreal Engine 5 Blueprints in the first ever PlayStation Career Pathways GameJam here - https://braylonheavens.myportfolio.com/playstation-career-pathways-gamejam
+
+###LinkedIn - https://www.linkedin.com/in/braylonheavens/
+
+###Portfolio - https://braylonheavens.myportfolio.com/
 
 <!--
 **BraylonH12/BraylonH12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
