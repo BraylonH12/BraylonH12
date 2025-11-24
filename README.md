@@ -1,4 +1,5 @@
-## **Braylon Heavens | Software Engineer | Sound Designer | Creative Media**
+## **Braylon Heavens **##
+## ** Software Engineer | Sound Designer | Audio Engineering | Creative Media**
 
 I am a junior enrolled at The University of Alabama with a major in Computer Science and a minor in Creative Media. My combination of education provides me with a unique background to inspire innovation and solutions to real-world problems utilizing my skills in Software Engineering.
 
