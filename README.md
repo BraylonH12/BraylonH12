@@ -1,5 +1,5 @@
 ## **Braylon Heavens** ##
-## **Software Engineer | Sound Designer | Audio Engineering** ##
+## **Software Engineer | Sound Designer** ##
 
 I am a junior enrolled at The University of Alabama with a major in Computer Science and a minor in Creative Media. My combination of education provides me with a unique background to inspire innovation and solutions to real-world problems utilizing my skills in Software Engineering.
 
@@ -9,7 +9,7 @@ I am a junior enrolled at The University of Alabama with a major in Computer Sci
 ### _PlayStation Career Pathways GameJam_ ###
 
 My involvement with PlayStation Career Pathways at Sony Interactive Entertainment has provided me with valuable, hands on experience in the Software Engineering Industry.
-Check out my contributions as a Gameplay Programmer with Unreal Engine 5 Blueprints in the first ever PlayStation Career Pathways GameJam [here](https://braylonheavens.myportfolio.com/playstation-career-pathways-gamejam). I also served as a Audio Programmer and Sound Designer in this GameJam as well, implementing code to determine when and how sounds are played. You can also check out my original soundtrack, released on all streaming platforms, for our game [here](https://www.youtube.com/watch?v=FEgBP5mUp6w&t=653s), as well as our official demo walkthrough [here](https://www.youtube.com/watch?v=9U5BS2WCfg4).
+Check out my contributions as a <ins> **Gameplay Programmer **</ins> with Unreal Engine 5 Blueprints in the first ever PlayStation Career Pathways GameJam [here](https://braylonheavens.myportfolio.com/playstation-career-pathways-gamejam). I also served as a <ins> **Audio Programmer** </ins> and <ins> **Sound Designer** </ins> in this GameJam as well, implementing code to determine when and how sounds are played. You can also check out my <ins>Original Soundtrack</ins>, released on all streaming platforms, for our game [here](https://www.youtube.com/watch?v=FEgBP5mUp6w&t=653s), as well as our official demo walkthrough [here](https://www.youtube.com/watch?v=9U5BS2WCfg4).
 
 ### _KWALeague_ ###
 
