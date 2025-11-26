@@ -17,15 +17,15 @@ My repository titled <ins> _KWALeague_ </ins> is a personal project inspired by 
 
 If you'd like, you are able to playtest this game by downloading the files in the repository and executing them in a text editor such as VScode.
 
-### _Programming Languages_ ###
+## <ins>Programming Languages</ins> ##
 
 **C++** | **C** | **Java** | **Python** | **SQL** | **MongoDB** | **Unreal Engine 5 Blueprints**
 
-### _Technical Skills_ ###
+## <ins>Technical Skills</ins> ##
 
 **Certified SCRUM Master** | **Microsoft Suite** | **Adobe Premiere Pro** | **Adobe After Effects**
 
-### _Organizations_ ###
+## <ins>Organizations</ins> ##
 **National Society of Black Engineers (NSBE)** | **National Society of Leadership and Success** | **ColorStack** | **First Year Experience at The University of Alabama**
 
 <!--
