@@ -32,6 +32,17 @@ If you'd like, you are able to playtest this game by downloading the files in th
 **National Society of Black Engineers (NSBE)** | **National Society of Leadership and Success** | **ColorStack** | **First Year Experience at The University of Alabama**
 
 <!--
+Things to add
+- Communication experience and examples
+
+- Experience in Java
+
+- Relevant Coursework
+
+- Awards to showcase GPA
+-->
+
+<!--
 Mel In Space Portfolio - https://braylonheavens.myportfolio.com/playstation-career-pathways-gamejam
 Soundtrack - https://www.youtube.com/watch?v=FEgBP5mUp6w&t=653s
 Official Walkthrough - https://www.youtube.com/watch?v=9U5BS2WCfg4
