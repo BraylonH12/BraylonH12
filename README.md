@@ -24,7 +24,7 @@ My repository titled <ins> _KWALeague_ </ins> is a personal project inspired by 
 
 If you'd like, you are able to playtest this game by downloading the files in the repository and executing them in a text editor such as VScode.
 
-### _CS470_PriorityQuue - "Priority Queue Analysis"_ ###
+### _CS470_PriorityQueue - "Priority Queue Analysis"_ ###
 
 In this school project I worked in a group of 4 to study different priority queue structures, such as Fibonacci Heaps, and analyize their run time based on Dijkstra and Prim's Algorithms.
 
