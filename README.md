@@ -37,7 +37,7 @@ In this school project I worked in a group of 4 to study different priority queu
 **Certified SCRUM Master** | **Microsoft Suite** | **Adobe Premiere Pro** | **Adobe After Effects**
 
 ## <ins>Organizations</ins> ##
-**National Society of Black Engineers (NSBE)** | **National Society of Leadership and Success** | **ColorStack** | **First Year Experience at The University of Alabama**
+**PlayStation Career Pathways** | **National Society of Black Engineers (NSBE)** | **National Society of Leadership and Success** | **ColorStack** | **First Year Experience at The University of Alabama**
 
 <!--
 Things to add
