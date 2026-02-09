@@ -14,6 +14,8 @@ Check out my contributions as a <ins> **Gameplay Programmer** </ins> with **Unre
 As a result of this GameJam, our team was able to secure **<ins>1st Place</ins>** 🏆!! We were also able to win awards presented to the team with the best **<ins> Time Management</ins>**.
 I also won an award for the **<ins>Most Improved GitHub</ins>**
 
+### _UGAHack11 - "Sorcer"_ ###
+
 ### _PlayStation Career Pathways Winter Solo GameJam - "Blinded"_ ###
 
 Similar to the GameJam above, I was tasked with taking a real world object and extending a mystical attribute to it. Working as a <ins> **Gameplay Programmer** </ins> in Unreal Engine 5 Blueprints I created a prototype horror game centered around a magical flashlight. 
