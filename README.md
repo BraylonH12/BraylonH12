@@ -6,7 +6,8 @@ I am a junior enrolled at The University of Alabama with a major in Computer Sci
 ## <ins>Projects</ins> ##
 
 
-### _PlayStation Career Pathways GameJam - "Mel In Space"_ ###
+### "Mel In Space" ###
+## _PlayStation Career Pathways Fall 2025 and Spring 2026 Winning GameJam Project_ ## 
 
 My involvement with **<ins>PlayStation Career Pathways at Sony Interactive Entertainment</ins>** has provided me with valuable, hands on experience in the Software Engineering Industry.
 Check out my contributions as a <ins> **Gameplay Programmer** </ins> with **Unreal Engine 5 Blueprints** in the first ever PlayStation Career Pathways GameJam [here](https://braylonheavens.myportfolio.com/playstation-career-pathways-gamejam). I also served as a <ins> **Audio Programmer** </ins> and <ins> **Sound Designer** </ins> in this GameJam as well, implementing code to determine when and how sounds are played. You can also check out my <ins>Original Soundtrack</ins>, released on all streaming platforms, for our game [here](https://www.youtube.com/watch?v=FEgBP5mUp6w&t=653s), as well as our official demo walkthrough [here](https://www.youtube.com/watch?v=9U5BS2WCfg4).
@@ -15,6 +16,10 @@ As a result of this GameJam, our team was able to secure **<ins>1st Place</ins>*
 I also won an award for the **<ins>Most Improved GitHub</ins>**
 
 ### _UGAHack11 - "Sorcer"_ ###
+
+_Sorcer_ is an intermediary application between users and LLM models. It reduces carbon footprint by rerouting prompts to different data centers depending on their respective carbon Emissions.
+
+I specifically contributed as a Backend Programmer, using Python and Redis to implement prompt condensing and semantic caching. Rather than ask a Large Level model to explain what a linked list is for the thousandth time, we utilizing vector embeddings on imputed prompts. If the answer exists in our cache, we return it instantly with near-zero energy consumption, preventing the LLM from wasting computational cycles on already solved problems by recycling it.
 
 ### _PlayStation Career Pathways Winter Solo GameJam - "Blinded"_ ###
 
@@ -32,7 +37,7 @@ In this school project I worked in a group of 4 to study different priority queu
 
 ## <ins>Programming Languages</ins> ##
 
-**C++** | **C** | **Java** | **Python** | **SQL** | **MongoDB** | **Unreal Engine 5 Blueprints**
+**C++** | **C** | **C#** | **Java** | **Python** | **SQL** | **MongoDB** | **Unreal Engine 5 Blueprints** | **JavaScript** | **TypeScript** |
 
 ## <ins>Technical Skills</ins> ##
 
