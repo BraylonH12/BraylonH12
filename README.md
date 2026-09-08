@@ -6,8 +6,8 @@ I am a junior enrolled at The University of Alabama with a major in Computer Sci
 ## <ins>Projects</ins> ##
 
 
-### "Mel In Space" ###
-## _PlayStation Career Pathways Fall 2025 and Spring 2026 Winning GameJam Project_ ## 
+## "Mel In Space" ##
+### _PlayStation Career Pathways Fall 2025 and Spring 2026 Winning GameJam Project_ ### 
 
 My involvement with **<ins>PlayStation Career Pathways at Sony Interactive Entertainment</ins>** has provided me with valuable, hands on experience in the Software Engineering Industry.
 Check out my contributions as a <ins> **Gameplay Programmer** </ins> with **Unreal Engine 5 Blueprints** in the first ever PlayStation Career Pathways GameJam [here](https://braylonheavens.myportfolio.com/playstation-career-pathways-gamejam). I also served as a <ins> **Audio Programmer** </ins> and <ins> **Sound Designer** </ins> in this GameJam as well, implementing code to determine when and how sounds are played. You can also check out my <ins>Original Soundtrack</ins>, released on all streaming platforms, for our game [here](https://www.youtube.com/watch?v=FEgBP5mUp6w&t=653s), as well as our official demo walkthrough [here](https://www.youtube.com/watch?v=9U5BS2WCfg4).
