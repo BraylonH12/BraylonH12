@@ -15,7 +15,9 @@ Check out my contributions as a <ins> **Gameplay Programmer** </ins> with **Unre
 As a result of this GameJam, our team was able to secure **<ins>1st Place</ins>** 🏆!! We were also able to win awards presented to the team with the best **<ins> Time Management</ins>**.
 I also won an award for the **<ins>Most Improved GitHub</ins>**
 
-### _UGAHack11 - "Sorcer"_ ###
+Stay Tuned for future updates and behind the scene walkthroughs on our _Official YouTube Channel_! - https://www.youtube.com/@Mel-In-Space
+
+## _UGAHack11 - "Sorcer"_ ##
 
 _Sorcer_ is an intermediary application between users and LLM models. It reduces carbon footprint by rerouting prompts to different data centers depending on their respective carbon Emissions.
 
@@ -25,13 +27,13 @@ I specifically contributed as a Backend Programmer, using Python and Redis to im
 
 Similar to the GameJam above, I was tasked with taking a real world object and extending a mystical attribute to it. Working as a <ins> **Gameplay Programmer** </ins> in Unreal Engine 5 Blueprints I created a prototype horror game centered around a magical flashlight. 
 
-### _KWALeague_ ###
+## _KWALeague_ ##
 
 My repository titled <ins> _KWALeague_ </ins> is a personal project inspired by my love for basketball and sports video games. I created original algorithms and data structures to accomplish a text-based game loop played inside a terminal. You are given full flexibility to root for a pre-existing team, change any pre-existing team, or even create your own. Given other input, such as how many rounds each team will play, the program simulates games with random number generators. At the end of the season is seeded and placed into a 16 team tournament algorithm I created myself. After the champion is decided, the next season begins.
 
 If you'd like, you are able to playtest this game by downloading the files in the repository and executing them in a text editor such as VScode.
 
-### _CS470_PriorityQueue - "Priority Queue Analysis"_ ###
+## _CS470_PriorityQueue - "Priority Queue Analysis"_ ##
 
 In this school project I worked in a group of 4 to study different priority queue structures, such as Fibonacci Heaps, and analyize their run time based on Dijkstra and Prim's Algorithms.
 
