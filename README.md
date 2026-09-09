@@ -19,6 +19,8 @@ Check out my contributions as a <ins> **Gameplay Programmer** </ins> with **Unre
 As a result of this GameJam, our team was able to secure **<ins>1st Place</ins>** 🏆!! We were also able to win awards presented to the team with the best **<ins> Time Management</ins>**.
 I also won an award for the **<ins>Most Improved GitHub</ins>**
 
+Since our codebase is private you can view videos of my work through my [PORTFOLIO]((https://braylonheavens.myportfolio.com/)
+
 Stay Tuned for future updates and behind the scene walkthroughs on our _Official YouTube Channel_! - https://www.youtube.com/@Mel-In-Space
 
 ## _UGAHack11 - "Sorcer"_ ##
