@@ -1,7 +1,7 @@
 ## **Braylon Heavens** ##
 ## **Software Engineer | Sound Designer** ##
 
-I am senior at The University of Alabama studying Computer Science and Creative Media. My experience includes high level programming and decision making as a Software Engineer at Cox Automotive and Gameplay Programmer for "Mel In Space."
+I am Senior at The University of Alabama studying Computer Science and Creative Media. My experience includes high level programming and decision making as a Software Engineer at Cox Automotive and Gameplay Programmer for "Mel In Space."
 
 <!--
 I am a junior enrolled at The University of Alabama with a major in Computer Science and a minor in Creative Media. My combination of education provides me with a unique background to inspire innovation and solutions to real-world problems utilizing my skills in Software Engineering.
@@ -24,6 +24,8 @@ Stay Tuned for future updates and behind the scene walkthroughs on our _Official
 ## _UGAHack11 - "Sorcer"_ ##
 
 _Sorcer_ is an intermediary application between users and LLM models. It reduces carbon footprint by rerouting prompts to different data centers depending on their respective carbon Emissions.
+
+Devpost - https://devpost.com/software/sorcer
 
 I specifically contributed as a Backend Programmer, using Python and Redis to implement prompt condensing and semantic caching. Rather than ask a Large Level model to explain what a linked list is for the thousandth time, we utilizing vector embeddings on imputed prompts. If the answer exists in our cache, we return it instantly with near-zero energy consumption, preventing the LLM from wasting computational cycles on already solved problems by recycling it.
 
