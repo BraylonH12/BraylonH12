@@ -29,9 +29,11 @@ Devpost - https://devpost.com/software/sorcer
 
 I specifically contributed as a Backend Programmer, using Python and Redis to implement prompt condensing and semantic caching. Rather than ask a Large Level model to explain what a linked list is for the thousandth time, we utilizing vector embeddings on imputed prompts. If the answer exists in our cache, we return it instantly with near-zero energy consumption, preventing the LLM from wasting computational cycles on already solved problems by recycling it.
 
-### _PlayStation Career Pathways Winter Solo GameJam - "Blinded"_ ###
+## _PlayStation Career Pathways Winter Solo GameJam - "Blinded"_ ##
 
 Similar to the GameJam above, I was tasked with taking a real world object and extending a mystical attribute to it. Working as a <ins> **Gameplay Programmer** </ins> in Unreal Engine 5 Blueprints I created a prototype horror game centered around a magical flashlight. 
+
+This GameJam provided additional practice with Unreal Engine 5 Blueprints, Level Design, and Prototyping. It also inspired me to innovate ideas and solutions from unlikely places.
 
 ## _KWALeague_ ##
 
@@ -47,9 +49,9 @@ In this school project I worked in a group of 4 to study different priority queu
 
 **C++** | **C** | **C#** | **Java** | **Python** | **SQL** | **MongoDB** | **Unreal Engine 5 Blueprints** | **JavaScript** | **TypeScript** |
 
-## <ins>Technical Skills</ins> ##
+## <ins>Technical Skills & Certifications </ins> ##
 
-**Certified SCRUM Master** | **Microsoft Suite** | **Adobe Premiere Pro** | **Adobe After Effects**
+**Certified SCRUM Master** | **Microsoft Suite** | **Adobe Premiere Pro** | **Adobe After Effects** | **LinkedIn Learning C# For Beginners** |
 
 ## <ins>Organizations</ins> ##
 **PlayStation Career Pathways (PSCP)** | **National Society of Black Engineers (NSBE)** | **National Society of Leadership and Success** | **ColorStack** | **First Year Experience at The University of Alabama** | **Crimson Tide Productions (CTP)**
