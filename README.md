@@ -1,7 +1,11 @@
 ## **Braylon Heavens** ##
 ## **Software Engineer | Sound Designer** ##
 
+I am senior at The University of Alabama studying Computer Science and Creative Media. My experience includes high level programming and decision making as a Software Engineer at Cox Automotive and Gameplay Programmer for "Mel In Space."
+
+<!--
 I am a junior enrolled at The University of Alabama with a major in Computer Science and a minor in Creative Media. My combination of education provides me with a unique background to inspire innovation and solutions to real-world problems utilizing my skills in Software Engineering.
+-->
 
 ## <ins>Projects</ins> ##
 
