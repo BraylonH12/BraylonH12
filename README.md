@@ -52,7 +52,7 @@ In this school project I worked in a group of 4 to study different priority queu
 **C++** | **C** | **C#** | **Java** | **Python** | **SQL** | **MongoDB** | **Unreal Engine 5 Blueprints** | **JavaScript** | **TypeScript** |
 
 
-<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/31b85f63-ac47-41a6-a485-d579220b4a2e" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/31b85f63-ac47-41a6-a485-d579220b4a2e" />
 
 
 ## <ins>Technical Skills & Certifications </ins> ##
